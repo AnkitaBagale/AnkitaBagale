@@ -17,7 +17,7 @@
  
  - 💻 *Work Experience:* I have worked in a Service based company for 3 years as a QA tester. Definitely it's helping me a lot in learning web development <img align="center" height="30" src="https://img.icons8.com/emoji/48/000000/rocket-emji.png"/> 
 
-📌 Here's a link to my [Portfolio](https://ankitabagale-portfolio.netlify.app/)
+📌 Here's a link to my [Portfolio](https://ankitabagale.com)
 
 
 📌 Contact Me :
