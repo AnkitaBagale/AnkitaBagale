@@ -15,7 +15,7 @@
  - 💻 *Back-End Development:*  <img align="center" height="30" src="https://user-images.githubusercontent.com/69760792/121766706-a67ec180-cb71-11eb-923d-69fc323bafa4.png"/> <img align="center" height="30" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img align="center" height="30" src="https://img.icons8.com/color/48/000000/java-web-token.png"/>
 
  
- - 💻 *Work Experience:* I have worked in a Service based company for 3 years as a QA tester. Definitely it's helping me a lot in learning web development <img align="center" height="30" src="https://img.icons8.com/emoji/48/000000/rocket-emji.png"/> 
+ - 💻 *Work Experience:* I am working as React developer since 2021. In past, I have worked in a Service based company for 3 years as a QA tester. Definitely it's helping me a lot in delivering bug free builds <img align="center" height="30" src="https://img.icons8.com/emoji/48/000000/rocket-emji.png"/> 
 
 📌 Here's a link to my [Portfolio](https://ankitabagale.com)
 
