@@ -1,7 +1,7 @@
 # Hello there! 👋🏻
 
 
-📌 I am **Ankita Bagale**, currently learning Web Developement and building exciting real-world projects.
+📌 I am **Ankita Bagale**, currently working as Frontend Engineer as Razorpay.
 
 📌 I am `extremely motivated` at learning to excel in my skills. `Consistency` and `passion for my work` are the key factors towards my success.
 
